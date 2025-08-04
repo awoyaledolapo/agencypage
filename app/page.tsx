@@ -1,9 +1,9 @@
-import Footer from "@/components/Footer";
+
 import Gallery from "@/components/Gallery";
 import Hero from "@/components/Hero";
 import Markets from "@/components/Markets";
 import Testimonials from "@/components/Testimonials";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
