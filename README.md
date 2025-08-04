@@ -1,6 +1,6 @@
 # agencypage
 
-# Frontend Mentor - [Challenge Name] Solution
+# Frontend Mentor - [Agency Landing page with multiple page] Solution
 
 This is a solution to the [Frontend Mentor](https://www.frontendmentor.io) 
 
