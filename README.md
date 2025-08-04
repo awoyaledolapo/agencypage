@@ -34,3 +34,38 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# agencypage
+
+# Frontend Mentor - [Agency Landing page with multiple page] Solution
+
+This is a solution to the [Frontend Mentor](https://www.frontendmentor.io) 
+
+## 🛠️ Built With
+
+- HTML5
+- Tailwind CSS
+- Next.js (with typescript)
+- Responsive design principles
+
+## 🚀 Live Demo
+
+👉 [Live Site on Vercel](https://your-project.vercel.app)
+
+
+## 📚 What I Learned
+
+- How to build responsive layouts from scratch
+- Practiced clean component structure in React
+- Gained more confidence using Tailwind utilities
+
+## 📦 Installation (for devs)
+
+```bash
+# Clone repo
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
