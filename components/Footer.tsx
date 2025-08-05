@@ -24,16 +24,16 @@ const Footer = () => {
       <div className=' flex justify-between items-center gap-7'>
         <span className='flex gap-9'>
           <ul className='flex gap-5 text-[#037e71] text-[16px] lg:text-[24px]'>
-            <li><Link href="/about-us">About Us</Link></li>
-            <li><Link href="/services">Services</Link></li>
-            <li><Link href="/project">Project</Link></li>
+            <li><Link href="/about-us" className='hover:text-white'>About Us</Link></li>
+            <li><Link href="/services" className='hover:text-white'>Services</Link></li>
+            <li><Link href="/project" className='hover:text-white'>Project</Link></li>
           </ul>
 
         </span>
       </div>
-        <div className='flex gap-5'>
+        <div className='flex gap-5 '>
           {socialsIcons.map((item,index)=>(
-            <Image src= {item.icon} alt="icons" key={index}/>
+            <Image src= {item.icon} alt="icons"  key={index}/>
          
           
           ))}
